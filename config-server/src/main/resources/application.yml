@@ -9,4 +9,9 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/<your-github-username>/config-repo
+          uri: https://github.com/jitendraimrb/spring-cloud-config
+
+logging:
+  level:
+    org.springframework.cloud.config.server: DEBUG
+    org.springframework.cloud.config.client: DEBUG
