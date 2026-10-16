@@ -69,4 +69,4 @@ logging:
     level: "%5p [correlationId=%X{correlationId}]"
 
 message:
-  greeting: Welcome To Service 1
+  greeting: Welcome To Service 1 and its a good learning.
