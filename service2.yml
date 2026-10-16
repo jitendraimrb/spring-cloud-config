@@ -1,0 +1,9 @@
+server:
+  port: 8082
+
+spring:
+  application:
+    name: service-1
+
+message:
+  greeting: Welcome To Service 1
